@@ -57,7 +57,7 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-### Project Highlights
+## Project Highlights
 
 - <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>                 
 In this project, I installed and configured Splunk Enterprise on a Windows desktop operating system to collect local system event logs. Specifically, I ingested key Windows event logs: Application, Security, and System logs. These logs provide foundational information on system operations, security events, and application behavior, which are critical for monitoring system health and security.
