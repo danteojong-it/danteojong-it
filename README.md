@@ -11,13 +11,13 @@ and user satisfaction.
 Seeking to grow my skills in cybersecurity and contribute to a dynamic team, with a focus on Security Operations Center (SOC) roles and threat detection.
 
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Basic Log Monitoring and Analysis                                         | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
-| Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | Check [Projects Section ↓](#project-highlights) |
-| Cybersecurity-Focused IT Support & Networking Project                     | |
+| Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | [Project Highlights Section ↓](#project-highlights) |
+| Cybersecurity-Focused IT Support & Networking Project                     | [Project Highlights Section ↓](#project-highlights) |
 <!--
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
