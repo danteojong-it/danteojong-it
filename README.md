@@ -15,7 +15,7 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Monitoring and Analysis Using Splunk SIEM  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
+| Log Monitoring and Analysis SIEM with Splunk  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
 | Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | [Project Highlights Section ↓](#project-highlights) |
 | Cybersecurity-Focused IT Support & Networking Project                     | [Project Highlights Section ↓](#project-highlights) |
 <!--
