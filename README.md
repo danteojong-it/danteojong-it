@@ -15,10 +15,9 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic Log Monitoring and Analysis                                         | <a href="https://google.com">Detection Lab</a>|
-| Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | <a href="https://google.com">Detection Lab</a>|
-| Cybersecurity-Focused IT Support & Networking Project                     | <a href="https://google.com">Detection Lab</a>|
-
+| Basic Log Monitoring and Analysis                                         | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
+| Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | Check [Projects Section ↓](#project-highlights) |
+| Cybersecurity-Focused IT Support & Networking Project                     | |
 <!--
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -58,15 +57,14 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Project Highlights
+### Project Highlights
 
-**Cybersecurity Home Lab**   
+- <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>                 
+In this project, I installed and configured Splunk Enterprise on a Windows desktop operating system to collect local system event logs. Specifically, I ingested key Windows event logs: Application, Security, and System logs. These logs provide foundational information on system operations, security events, and application behavior, which are critical for monitoring system health and security.
+
+- **Cybersecurity Home Lab**   
 Designed and maintained a virtual cybersecurity lab using VirtualBox, simulating Windows and Linux environments. Practiced ethical hacking, vulnerability scanning, and network segmentation using tools like Wireshark, Nmap, Metasploit, and Active Directory.
 
-**Cybersecurity-Focused IT Support & Networking Project**   
+- **Cybersecurity-Focused IT Support & Networking Project**   
 Delivered hands-on troubleshooting across Windows, macOS, and Linux systems. Built custom PCs, configured BIOS/UEFI settings, and resolved hardware/software issues. Used Cisco Packet Tracer for VLAN, DHCP, and CLI-based router/switch configuration. Conducted traffic analysis and enforced security controls.
-
-**Basic Log Monitoring and Analysis***
-
-
 
