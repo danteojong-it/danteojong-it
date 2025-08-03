@@ -15,11 +15,11 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Basic Log Monitoring and Analysis                                         | <a href="https://google.com">Detection Lab</a>|
 | Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | <a href="https://google.com">Detection Lab</a>|
 | Cybersecurity-Focused IT Support & Networking Project                     | <a href="https://google.com">Detection Lab</a>|
 
 <!--
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -65,6 +65,8 @@ Designed and maintained a virtual cybersecurity lab using VirtualBox, simulating
 
 **Cybersecurity-Focused IT Support & Networking Project**   
 Delivered hands-on troubleshooting across Windows, macOS, and Linux systems. Built custom PCs, configured BIOS/UEFI settings, and resolved hardware/software issues. Used Cisco Packet Tracer for VLAN, DHCP, and CLI-based router/switch configuration. Conducted traffic analysis and enforced security controls.
+
+**Basic Log Monitoring and Analysis***
 
 
 
