@@ -59,7 +59,7 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 
 ## Project Highlights
 
-- <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>                 
+- <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Log Monitoring and Analysis SIEM with Splunk </a>                 
 In this project, I installed and configured Splunk Enterprise on a Windows desktop operating system to collect local system event logs. Specifically, I ingested key Windows event logs: Application, Security, and System logs. These logs provide foundational information on system operations, security events, and application behavior, which are critical for monitoring system health and security.
 
 - **Personal Virtual Lab for Ethical Hacking and Network Security Simulation**   
