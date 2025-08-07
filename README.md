@@ -1,4 +1,4 @@
-# Hello, I'm Dante Ojong
+# Hello, I'm Dante
 <a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Detail-oriented IT support technician with over 2 years of hands-on experience diagnosing and resolving hardware and software issues across
