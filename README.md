@@ -62,7 +62,7 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 - <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>                 
 In this project, I installed and configured Splunk Enterprise on a Windows desktop operating system to collect local system event logs. Specifically, I ingested key Windows event logs: Application, Security, and System logs. These logs provide foundational information on system operations, security events, and application behavior, which are critical for monitoring system health and security.
 
-- **Cybersecurity Home Lab**   
+- **Personal Virtual Lab for Ethical Hacking and Network Security Simulation**   
 Designed and maintained a virtual cybersecurity lab using VirtualBox, simulating Windows and Linux environments. Practiced ethical hacking, vulnerability scanning, and network segmentation using tools like Wireshark, Nmap, Metasploit, and Active Directory.
 
 - **Cybersecurity-Focused IT Support & Networking Project**   
