@@ -1,10 +1,9 @@
 # Hello, I'm Dante
 <a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Detail-oriented IT support technician with over 2 years of hands-on experience diagnosing and resolving hardware and software issues across
-various platforms, including Windows, Linux, and macOS. I’ve successfully built and supported custom PCs, managed Active Directory tasks,
-and configured network environments. My commitment to troubleshooting and problem-solving has led to significant improvements in system performance 
-and user satisfaction.
+Cybersecurity professional with 2+ years’ technical support and customer service experience. Skilled in vulnerability assessments, risk management,
+Linux systems, and cybersecurity frameworks. Proven record in identifying vulnerabilities, delivering technical solutions, and enhancing system
+security for diverse clients.
 
 ## Objective
 
