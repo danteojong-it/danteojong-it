@@ -1,9 +1,11 @@
 # Hello, I'm Dante
 <a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity professional with 2+ years’ technical support and customer service experience. Skilled in vulnerability assessments, risk management,
-Linux systems, and cybersecurity frameworks. Proven record in identifying vulnerabilities, delivering technical solutions, and enhancing system
-security for diverse clients.
+Aspiring Cyber Compliance Analyst with a recent focus on risk assessments and strengthening security postures in a cybersecurity practitioner intern role. 
+Experienced in identifying vulnerabilities and delivering tailored cybersecurity solutions using industry-standard frameworks like NIST for nonprofit clients. 
+Proficient in employing tools such as Metasploit to address security challenges. Committed to utilizing cybersecurity expertise to assist organizations in
+achieving compliance and enhancing security measures.
+
 
 ## Objective
 
@@ -15,8 +17,8 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Log Monitoring and Analysis SIEM with Splunk  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
-| Personal Virtual Lab for Ethical Hacking and Network Security Simulation  | [Project Highlights Section ↓](#project-highlights) |
-| Cybersecurity-Focused IT Support & Networking Project                     | [Project Highlights Section ↓](#project-highlights) |
+| Ethical Hacking & Network Security Lab        | [Project Highlights Section ↓](#project-highlights) |
+| PC Assembly, OS Installation, and Hardware Troubleshooting                | [Project Highlights Section ↓](#project-highlights) |
 <!--
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -56,14 +58,25 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Project Highlights
+## Detailed Project Descriptions
 
 - <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Log Monitoring and Analysis SIEM with Splunk </a>                 
-In this project, I installed and configured Splunk Enterprise on a Windows desktop operating system to collect local system event logs. Specifically, I ingested key Windows event logs: Application, Security, and System logs. These logs provide foundational information on system operations, security events, and application behavior, which are critical for monitoring system health and security.
+• Installed and configured Splunk Enterprise on Windows 11 to collect and centralize system event logs (Application, Security, System).
+• Utilized Windows Event Viewer to manage and clear event logs during controlled testing and log ingestion phases.
+• Developed and refined Search Processing Language (SPL) queries to analyze large volumes of log data, increasing query performance and detection accuracy by an
+estimated 43%.
+• Created custom Splunk dashboards to visualize key security events, enhancing visibility and response speed by roughly 35%.
+• Practiced detecting simulated critical security incidents such as unauthorized privileged access and audit log clearance through continuous log monitoring.
+• Gained hands-on experience in SIEM configuration, log analysis, and incident detection, enhancing practical cybersecurity monitoring skills.
 
-- **Personal Virtual Lab for Ethical Hacking and Network Security Simulation**   
-Designed and maintained a virtual cybersecurity lab using VirtualBox, simulating Windows and Linux environments. Practiced ethical hacking, vulnerability scanning, and network segmentation using tools like Wireshark, Nmap, Metasploit, and Active Directory.
+- **Ethical Hacking & Network Security Lab**   
+• Designed and built a virtual cybersecurity lab using VirtualBox, simulating real-world attack and defense scenarios with a 100% success rate in identifying and
+exploiting vulnerabilities.
+• Utilized Kali Linux tools to execute penetration testing and vulnerability scanning against Metasploitable2.
+• Improved hands-on skills in ethical hacking techniques, including reconnaissance, exploitation, and post-exploitation.
+• Gained experience configuring isolated virtual environments to safely test and analyze network security risks.
 
-- **Cybersecurity-Focused IT Support & Networking Project**   
-Delivered hands-on troubleshooting across Windows, macOS, and Linux systems. Built custom PCs, configured BIOS/UEFI settings, and resolved hardware/software issues. Used Cisco Packet Tracer for VLAN, DHCP, and CLI-based router/switch configuration. Conducted traffic analysis and enforced security controls.
-
+- **PC Assembly, OS Installation, and Hardware Troubleshooting**   
+• Built and assembled 10+ custom gaming and personal PCs from components, ensuring optimal hardware compatibility and performance.
+• Installed and configured operating systems including Windows, troubleshooting installation issues and driver conflicts.
+• Diagnosed and resolved hardware issues related to CPU, SSD, RAM, GPU, and peripherals, reducing setup time and improving system stability.
