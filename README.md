@@ -58,25 +58,26 @@ Connect with me on
 
 ## Detailed Project Descriptions
 
-- <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Log Monitoring and Analysis SIEM with Splunk </a>                 
-• Installed and configured Splunk Enterprise on Windows 11 to collect and centralize system event logs (Application, Security, System).
+**<a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Log Monitoring and Analysis SIEM with Splunk </a>**
 
-• Utilized Windows Event Viewer to manage and clear event logs during controlled testing and log ingestion phases.
-• Developed and refined Search Processing Language (SPL) queries to analyze large volumes of log data, increasing query performance and detection accuracy by an
-estimated 43%.
-• Created custom Splunk dashboards to visualize key security events, enhancing visibility and response speed by roughly 35%.
-• Practiced detecting simulated critical security incidents such as unauthorized privileged access and audit log clearance through continuous log monitoring.
-• Gained hands-on experience in SIEM configuration, log analysis, and incident detection, enhancing practical cybersecurity monitoring skills.
+## Detailed Project Descriptions
 
-**Ethical Hacking & Network Security Lab**   
+### [Log Monitoring and Analysis SIEM with Splunk](https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main)
+- **Installed and configured Splunk Enterprise** on Windows 11 to collect and centralize system event logs (Application, Security, System).
+- **Utilized Windows Event Viewer** to manage and clear event logs during controlled testing and log ingestion.
+- **Developed and refined SPL queries** to analyze large volumes of log data, increasing query performance and detection accuracy by an estimated **43%**.
+- **Created custom Splunk dashboards** to visualize key security events, enhancing visibility and response speed by roughly **35%**.
+- **Practiced detecting simulated critical security incidents,** such as unauthorized privileged access and audit log clearance through continuous log monitoring.
+- **Gained hands-on experience** in SIEM configuration, log analysis, and incident detection, enhancing practical cybersecurity monitoring skills.
 
-### Designed and built a virtual cybersecurity lab using VirtualBox, simulating real-world attack and defense scenarios with a 100% success rate in identifying and
-exploiting vulnerabilities.
-• Utilized Kali Linux tools to execute penetration testing and vulnerability scanning against Metasploitable2.
-• Improved hands-on skills in ethical hacking techniques, including reconnaissance, exploitation, and post-exploitation.
-• Gained experience configuring isolated virtual environments to safely test and analyze network security risks.
+### Ethical Hacking & Network Security Lab
+- **Designed and built a virtual cybersecurity lab** using VirtualBox, simulating real-world attack and defense scenarios with a **100% success rate** in identifying and exploiting vulnerabilities.
+- **Utilized Kali Linux tools** to execute penetration testing and vulnerability scanning against Metasploitable2.
+- **Improved hands-on skills** in ethical hacking techniques, including reconnaissance, exploitation, and post-exploitation.
+- **Gained experience configuring isolated virtual environments** to safely test and analyze network security risks.
 
-- **PC Assembly, OS Installation, and Hardware Troubleshooting**   
-• Built and assembled 10+ custom gaming and personal PCs from components, ensuring optimal hardware compatibility and performance.
-• Installed and configured operating systems including Windows, troubleshooting installation issues and driver conflicts.
-• Diagnosed and resolved hardware issues related to CPU, SSD, RAM, GPU, and peripherals, reducing setup time and improving system stability.
+### PC Assembly, OS Installation, and Hardware Troubleshooting
+- **Built and assembled 10+ custom gaming and personal PCs** from components, ensuring optimal hardware compatibility and performance.
+- **Installed and configured operating systems** including Windows, troubleshooting installation issues and driver conflicts.
+- **Diagnosed and resolved hardware issues** related to CPU, SSD, RAM, GPU, and peripherals, reducing setup time and improving system stability.
+
