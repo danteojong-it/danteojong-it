@@ -68,7 +68,7 @@ estimated 43%.
 • Practiced detecting simulated critical security incidents such as unauthorized privileged access and audit log clearance through continuous log monitoring.
 • Gained hands-on experience in SIEM configuration, log analysis, and incident detection, enhancing practical cybersecurity monitoring skills.
 
-- ##**Ethical Hacking & Network Security Lab**   
+**Ethical Hacking & Network Security Lab**   
 • Designed and built a virtual cybersecurity lab using VirtualBox, simulating real-world attack and defense scenarios with a 100% success rate in identifying and
 exploiting vulnerabilities.
 • Utilized Kali Linux tools to execute penetration testing and vulnerability scanning against Metasploitable2.
