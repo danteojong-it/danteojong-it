@@ -23,9 +23,6 @@ Connect with me on
 
 ## Tools
 
-[Ethical Hacking Project Description ↓](#ethical-hacking--network-security-lab)
-
-
 ### Network & Security Tools
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
