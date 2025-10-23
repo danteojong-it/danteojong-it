@@ -51,6 +51,8 @@ achieving compliance and enhancing security measures.
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mastercard_Cybersecurity_Job_Simulation-0072C6?&style=for-the-badge&logo=mastercard&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNAv7_Introduction_to_Networks-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA_Switching_Routing_Wireless_Essentials-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Detailed Project Descriptions
