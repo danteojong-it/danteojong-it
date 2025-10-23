@@ -11,6 +11,14 @@ Feel free to check out my
 </a> 
 profile to learn more about my experience and connect!
 
+
+Connect with me on 
+<a href="https://www.linkedin.com/in/danteojong/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" height="20" style="vertical-align:middle">
+</a>
+
+
+
 ## Projects
 
 | Skill                                         | Project Links         |
