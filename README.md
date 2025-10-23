@@ -58,10 +58,6 @@ Connect with me on
 
 ## Detailed Project Descriptions
 
-**<a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Log Monitoring and Analysis SIEM with Splunk </a>**
-
-## Detailed Project Descriptions
-
 ### [Log Monitoring and Analysis SIEM with Splunk](https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main)
 - **Installed and configured Splunk Enterprise** on Windows 11 to collect and centralize system event logs (Application, Security, System).
 - **Utilized Windows Event Viewer** to manage and clear event logs during controlled testing and log ingestion.
