@@ -19,6 +19,9 @@ Connect with me on
 
 
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/danteojong/) <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" height="20" style="vertical-align:middle">
+
+
 ## Projects
 
 | Skill                                         | Project Links         |
