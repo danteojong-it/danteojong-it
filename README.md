@@ -60,6 +60,7 @@ Connect with me on
 
 - <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Log Monitoring and Analysis SIEM with Splunk </a>                 
 • Installed and configured Splunk Enterprise on Windows 11 to collect and centralize system event logs (Application, Security, System).
+
 • Utilized Windows Event Viewer to manage and clear event logs during controlled testing and log ingestion phases.
 • Developed and refined Search Processing Language (SPL) queries to analyze large volumes of log data, increasing query performance and detection accuracy by an
 estimated 43%.
