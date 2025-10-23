@@ -70,7 +70,7 @@ estimated 43%.
 
 **Ethical Hacking & Network Security Lab**   
 
-# Designed and built a virtual cybersecurity lab using VirtualBox, simulating real-world attack and defense scenarios with a 100% success rate in identifying and
+### Designed and built a virtual cybersecurity lab using VirtualBox, simulating real-world attack and defense scenarios with a 100% success rate in identifying and
 exploiting vulnerabilities.
 • Utilized Kali Linux tools to execute penetration testing and vulnerability scanning against Metasploitable2.
 • Improved hands-on skills in ethical hacking techniques, including reconnaissance, exploitation, and post-exploitation.
