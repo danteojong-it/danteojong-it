@@ -1,10 +1,11 @@
-# Hello, I'm Dante
-<a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Welcome to my page! I'm Dante, an aspiring Cyber Compliance Analyst with a recent focus on risk assessments and strengthening security postures in a cybersecurity 
+practitioner intern role. Experienced in identifying vulnerabilities and delivering tailored cybersecurity solutions using industry-standard frameworks like NIST for
+nonprofit clients. Proficient in employing tools such as Metasploit to address security challenges. Committed to utilizing cybersecurity expertise to assist organizations 
+in achieving compliance and enhancing security measures. 
 
-Aspiring Cyber Compliance Analyst with a recent focus on risk assessments and strengthening security postures in a cybersecurity practitioner intern role. 
-Experienced in identifying vulnerabilities and delivering tailored cybersecurity solutions using industry-standard frameworks like NIST for nonprofit clients. 
-Proficient in employing tools such as Metasploit to address security challenges. Committed to utilizing cybersecurity expertise to assist organizations in
-achieving compliance and enhancing security measures.
+Feel free to check out my <a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> profile to learn more about my experience and connect!
+
+
 
 ## Projects
 
@@ -26,7 +27,8 @@ achieving compliance and enhancing security measures.
 ### Network & Security Tools
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap_(Zenmap)-7AB800?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-7AB800?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zenmap-7AB800?&style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-5C2D91?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
@@ -50,9 +52,9 @@ achieving compliance and enhancing security measures.
 ## Certifications & Training
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mastercard_Cybersecurity_Job_Simulation-0072C6?&style=for-the-badge&logo=mastercard&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mastercard:_Cybersecurity_Job_Simulation-0072C6?&style=for-the-badge&logo=mastercard&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNAv7:_Introduction_to_Networks-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA:_Switching_Routing_Wireless_Essentials-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA:_Switching,_Routing,_Wireless_Essentials-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Detailed Project Descriptions
