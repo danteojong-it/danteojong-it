@@ -5,7 +5,11 @@ in achieving compliance and enhancing security measures.
 
 Feel free to check out my <a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> profile to learn more about my experience and connect!
 
-
+Feel free to check out my 
+<a href="https://www.linkedin.com/in/danteojong/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile Badge" />
+</a> 
+profile to learn more about my experience and connect!
 
 ## Projects
 
