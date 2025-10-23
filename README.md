@@ -6,19 +6,13 @@ Experienced in identifying vulnerabilities and delivering tailored cybersecurity
 Proficient in employing tools such as Metasploit to address security challenges. Committed to utilizing cybersecurity expertise to assist organizations in
 achieving compliance and enhancing security measures.
 
-
-## Objective
-
-Seeking to grow my skills in cybersecurity and contribute to a dynamic team, with a focus on Security Operations Center (SOC) roles and threat detection.
-
-
 ## Projects
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Project Links         |
 |-----------------------------------------------|----------------------------|
 | Log Monitoring and Analysis SIEM with Splunk  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
-| Ethical Hacking & Network Security Lab        | [Project Highlights Section ↓](#project-highlights) |
-| PC Assembly, OS Installation, and Hardware Troubleshooting                | [Project Highlights Section ↓](#project-highlights) |
+| Ethical Hacking & Network Security Lab        | [Detailed Project Description ↓](#project-highlights) |
+| PC Assembly, OS Installation, and Hardware Troubleshooting                | [Detailed Project Description ↓](#project-highlights) |
 <!--
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -53,9 +47,10 @@ Seeking to grow my skills in cybersecurity and contribute to a dynamic team, wit
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications & Training
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mastercard_Cybersecurity_Job_Simulation-0072C6?&style=for-the-badge&logo=mastercard&logoColor=white" />
 </div>
 
 ## Detailed Project Descriptions
