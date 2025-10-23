@@ -1,4 +1,4 @@
-Welcome to my page! I'm Dante, an aspiring Cyber Compliance Analyst with a recent focus on risk assessments and strengthening security postures in a cybersecurity 
+## Welcome to my page! I'm Dante, an aspiring Cyber Compliance Analyst with a recent focus on risk assessments and strengthening security postures in a cybersecurity 
 practitioner intern role. Experienced in identifying vulnerabilities and delivering tailored cybersecurity solutions using industry-standard frameworks like NIST for
 nonprofit clients. Proficient in employing tools such as Metasploit to address security challenges. Committed to utilizing cybersecurity expertise to assist organizations 
 in achieving compliance and enhancing security measures.
