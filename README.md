@@ -3,24 +3,10 @@ practitioner intern role. Experienced in identifying vulnerabilities and deliver
 nonprofit clients. Proficient in employing tools such as Metasploit to address security challenges. Committed to utilizing cybersecurity expertise to assist organizations 
 in achieving compliance and enhancing security measures. 
 
-Feel free to check out my <a href="https://www.linkedin.com/in/danteojong/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> profile to learn more about my experience and connect!
-
-Feel free to check out my 
-<a href="https://www.linkedin.com/in/danteojong/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile Badge" />
-</a> 
-profile to learn more about my experience and connect!
-
-
 Connect with me on 
 <a href="https://www.linkedin.com/in/danteojong/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" height="20" style="vertical-align:middle">
-</a>
- to learn more about my experience and cybersecurity journey.
-
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/danteojong/) <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" height="20" style="vertical-align:middle">
-
+</a> to learn more about my experience and cybersecurity journey.
 
 ## Projects
 
