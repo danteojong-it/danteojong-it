@@ -10,7 +10,7 @@ Connect with me on
 
 | Skill                                         | Project Links         |
 |-----------------------------------------------|----------------------------|
-| Log Monitoring and Analysis SIEM with Splunk  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Basic Log Monitoring and Analysis	</a>|
+| Log Monitoring and Analysis SIEM with Splunk  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Detailed Project Description	</a>|
 | Ethical Hacking & Network Security Lab        | [Detailed Project Description ↓](#project-highlights) |
 | PC Assembly, OS Installation, and Hardware Troubleshooting                | [Detailed Project Description ↓](#project-highlights) |
 <!--
