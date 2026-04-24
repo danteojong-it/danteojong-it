@@ -10,7 +10,7 @@ Connect with me on
 
 | Skill                                         | Project Links         |
 |-----------------------------------------------|----------------------------|
-| Small Office Network Design & Configuration   | [Detailed Project Description ↓](#project-highlights) |
+| Small Office Network Design & Configuration   | <a href="https://github.com/danteojong-it/Small-Office-Network-Design-in-Cisco-Packet-Tracer">Detailed Project Description	</a>|
 | Log Monitoring and Analysis SIEM with Splunk  | <a href="https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main">Detailed Project Description	</a>|
 | Ethical Hacking & Network Security Lab        | [Detailed Project Description ↓](#project-highlights) |
 | PC Assembly, OS Installation, and Hardware Troubleshooting                | [Detailed Project Description ↓](#project-highlights) |
@@ -49,8 +49,25 @@ Connect with me on
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+
+
+
+
+
+
+
+
+
+<img width="200" height="200" alt="cyberreadyclinic_logo" src="https://github.com/user-attachments/assets/4b7dce70-c86b-46ff-8f0f-3494715f9ae5" />
+
 ## Certifications & Training
-<div>
+<div>  
+
+
+
+
+  
+<img src="https://img.shields.io/badge/-Ready5_Verified_Practitioner-00B2E2?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mastercard:_Cybersecurity_Job_Simulation-0072C6?&style=for-the-badge&logo=mastercard&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNAv7:_Introduction_to_Networks-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
@@ -59,7 +76,7 @@ Connect with me on
 
 ## Detailed Project Descriptions
 
-### Small Office Network Design in Cisco Packet Tracer
+### [Small Office Network Design in Cisco Packet Tracer](https://github.com/danteojong-it/Small-Office-Network-Design-in-Cisco-Packet-Tracer)
 - **Designed and configured a small office network** in Cisco Packet Tracer, simulating a corporate environment with separate VLANs for HR and Sales departments.
 - **Implemented inter-VLAN routing** using a Router-on-a-Stick configuration to allow secure communication between segmented networks.
 - **Configured DHCP servers** on the main Cisco router to automatically assign IP addresses to wired PCs and wireless devices.
