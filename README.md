@@ -59,6 +59,14 @@ Connect with me on
 
 ## Detailed Project Descriptions
 
+### Small Office Network Design in Cisco Packet Tracer
+- **Designed and configured a small office network** in Cisco Packet Tracer, simulating a corporate environment with separate VLANs for HR and Sales departments.
+- **Implemented inter-VLAN routing** using a Router-on-a-Stick configuration to allow secure communication between segmented networks.
+- **Configured DHCP servers** on the main Cisco router to automatically assign IP addresses to wired PCs and wireless devices.
+- **Established a secure wireless network** for staff laptops, implementing WPA2 security and integrating the wireless router into the broader network topology.
+- **Applied basic switch security measures**, such as administratively disabling all unused FastEthernet ports to prevent unauthorized physical access.
+- **Verified end-to-end network connectivity** by successfully executing ICMP ping tests across VLANs, the wireless network, and a simulated Cloud internet connection.
+
 ### [Log Monitoring and Analysis SIEM with Splunk](https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main)
 - **Installed and configured Splunk Enterprise** on Windows 11 to collect and centralize system event logs (Application, Security, System).
 - **Utilized Windows Event Viewer** to manage and clear event logs during controlled testing and log ingestion.
