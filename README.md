@@ -55,30 +55,30 @@ Want to learn more about my cybersecurity journey? <br> <a href="https://www.lin
 </div>
 
 ## Projects
-### [Small Office Network Design in Cisco Packet Tracer](https://github.com/danteojong-it/Small-Office-Network-Design-in-Cisco-Packet-Tracer)
-- Designed and configured a small office network** in Cisco Packet Tracer, simulating a corporate environment with separate VLANs for HR and Sales departments.
-- Implemented inter-VLAN routing** using a Router-on-a-Stick configuration to allow secure communication between segmented networks.
-- Configured DHCP servers** on the main Cisco router to automatically assign IP addresses to wired PCs and wireless devices.
-- Established a secure wireless network** for staff laptops, implementing WPA2 security and integrating the wireless router into the broader network topology.
-- Applied basic switch security measures**, such as administratively disabling all unused FastEthernet ports to prevent unauthorized physical access.
-- Verified end-to-end network connectivity** by successfully executing ICMP ping tests across VLANs, the wireless network, and a simulated Cloud internet connection.
+### [Packet Tracer Network Design Lab](https://github.com/danteojong-it/packet-tracer-network-design-lab)
+- **Designed and configured a small office network** in Cisco Packet Tracer, simulating a corporate environment with separate VLANs for HR and Sales departments.
+- **Implemented inter-VLAN routing** using a Router-on-a-Stick configuration to allow secure communication between segmented networks.
+- **Configured DHCP servers** on the main Cisco router to automatically assign IP addresses to wired PCs and wireless devices.
+- **Established a secure wireless network** for staff laptops, implementing WPA2 security and integrating the wireless router into the broader network topology.
+- **Applied basic switch security measures**, such as administratively disabling all unused FastEthernet ports to prevent unauthorized physical access.
+- **Verified end-to-end network connectivity** by successfully executing ICMP ping tests across VLANs, the wireless network, and a simulated Cloud internet connection.
 
 ### [Log Monitoring and Analysis SIEM with Splunk](https://github.com/danteojong-it/Basic-Log-Monitoring-and-Analysis-/tree/main)
-- Installed and configured Splunk Enterprise** on Windows 11 to collect and centralize system event logs (Application, Security, System).
-- Utilized Windows Event Viewer** to manage and clear event logs during controlled testing and log ingestion.
-- Developed and refined SPL queries** to analyze large volumes of log data, increasing query performance and detection accuracy by an estimated **43%**.
-- Created custom Splunk dashboards** to visualize key security events, enhancing visibility and response speed by roughly **35%**.
-- Practiced detecting simulated critical security incidents,** such as unauthorized privileged access and audit log clearance through continuous log monitoring.
-- Gained hands-on experience** in SIEM configuration, log analysis, and incident detection, enhancing practical cybersecurity monitoring skills.
+- **Installed and configured Splunk Enterprise** on Windows 11 to collect and centralize system event logs (Application, Security, System).
+- **Utilized Windows Event Viewer** to manage and clear event logs during controlled testing and log ingestion.
+- **Developed and refined SPL queries** to analyze large volumes of log data, increasing query performance and detection accuracy by an estimated **43%**.
+- **Created custom Splunk dashboards** to visualize key security events, enhancing visibility and response speed by roughly **35%**.
+- **Practiced detecting simulated critical security incidents,** such as unauthorized privileged access and audit log clearance through continuous log monitoring.
+- **Gained hands-on experience** in SIEM configuration, log analysis, and incident detection, enhancing practical cybersecurity monitoring skills.
 
 ### Ethical Hacking & Network Security Lab
-- Designed and built a virtual cybersecurity lab** using VirtualBox, simulating real-world attack and defense scenarios with a **100% success rate** in identifying and exploiting vulnerabilities.
-- Utilized Kali Linux tools** to execute penetration testing and vulnerability scanning against Metasploitable2.
-- Improved hands-on skills** in ethical hacking techniques, including reconnaissance, exploitation, and post-exploitation.
-- Gained experience configuring isolated virtual environments** to safely test and analyze network security risks.
+- **Designed and built a virtual cybersecurity lab** using VirtualBox, simulating real-world attack and defense scenarios with a **100% success rate** in identifying and exploiting vulnerabilities.
+- **Utilized Kali Linux tools** to execute penetration testing and vulnerability scanning against Metasploitable2.
+- **Improved hands-on skills** in ethical hacking techniques, including reconnaissance, exploitation, and post-exploitation.
+- **Gained experience configuring isolated virtual environments** to safely test and analyze network security risks.
 
 ### PC Assembly, OS Installation, and Hardware Troubleshooting
-- Built and assembled 10+ custom gaming and personal PCs** from components, ensuring optimal hardware compatibility and performance.
-- Installed and configured operating systems** including Windows, troubleshooting installation issues and driver conflicts.
-- Diagnosed and resolved hardware issues** related to CPU, SSD, RAM, GPU, and peripherals, reducing setup time and improving system stability.
+- **Built and assembled 10+ custom gaming and personal PCs** from components, ensuring optimal hardware compatibility and performance.
+- **Installed and configured operating systems** including Windows, troubleshooting installation issues and driver conflicts.
+- **Diagnosed and resolved hardware issues** related to CPU, SSD, RAM, GPU, and peripherals, reducing setup time and improving system stability.
 
