@@ -7,12 +7,13 @@ Want to learn more about my cybersecurity journey? <br> <a href="https://www.lin
 
 
 ## Certifications
-<div>  
-<img src="https://img.shields.io/badge/-Ready5_Verified_Practitioner-00B2E2?style=for-the-badge&logoColor=white&logo=data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAIAAACQKrqGAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL%2BviUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAB0klEQVR4nF2SP2gTYRjG3/e7L4lJLha1V0wrYkCQDi1KG1AEV3ERhzq5iIu4CA6Cm4M61EnBQeqsCBaHTpVSqi4ihSpIiTSlf0JT0tqrl8TL5e6%2B73sclCT6m16e38M7PQwAIE0gIouZ6R8MyACCWTAxgF4XGd1SUAaS2U4KyaKjpAHK9XBh2/%2B0E5S8sBaoyFBKsJ0QfUlxIpc4O5C%2BeMw%2B2ZfiX1E8VXJbmg8mBDG5bb38M1zaCyu%2BspilID82Y0cSHy8XZFLwhUG7HsFiyiaEc8AaykgFmtloPF321poxQJeO5zJSyhg0s96Yrba%2B7UdBqHNpmc9YVwv2w2J%2Brtpa/BEOZcWt4cNEJDPSuj3Sf78o9gLzctV7XqqveJGvyG1Hs1u%2BAe6OHhrMJjVIgGiqtD82vfZ5178z4lhMTlo8Kjovvntb9XiikL053K8BwSQIdO%2B0o4liQ/PVZmkneHJuoBGZB0vu%2BNHUs/N5wSyImYgAtJWa/FID9Oib8vWFCoDxt6unXq9sNtsAtMEfCIAyAPD4a%2B3Ku3UAE3MbZ6bLVT/sqG7VANrgw3aj1gpvvK9cm98MlOr916120sXd5quy25v00t2AAQn%2BezDTf7shot%2B7BkUMI6HuFwAAAABJRU5ErkJggg%3D%3D" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mastercard:_Cybersecurity_Job_Simulation-0072C6?&style=for-the-badge&logo=mastercard&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNAv7:_Introduction_to_Networks-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA:_Switching,_Routing,_Wireless_Essentials-1DA1F2?&style=for-the-badge&logo=cisco&logoColor=white" />
+<div>
+ <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-CompTIA_A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Ready5_Verified_Practitioner-00B2E2?style=for-the-badge&logoColor=white&logo=data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAIAAACQKrqGAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL%2BviUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAB0klEQVR4nF2SP2gTYRjG3/e7L4lJLha1V0wrYkCQDi1KG1AEV3ERhzq5iIu4CA6Cm4M61EnBQeqsCBaHTpVSqi4ihSpIiTSlf0JT0tqrl8TL5e6%2B73sclCT6m16e38M7PQwAIE0gIouZ6R8MyACCWTAxgF4XGd1SUAaS2U4KyaKjpAHK9XBh2/%2B0E5S8sBaoyFBKsJ0QfUlxIpc4O5C%2BeMw%2B2ZfiX1E8VXJbmg8mBDG5bb38M1zaCyu%2BspilID82Y0cSHy8XZFLwhUG7HsFiyiaEc8AaykgFmtloPF321poxQJeO5zJSyhg0s96Yrba%2B7UdBqHNpmc9YVwv2w2J%2Brtpa/BEOZcWt4cNEJDPSuj3Sf78o9gLzctV7XqqveJGvyG1Hs1u%2BAe6OHhrMJjVIgGiqtD82vfZ5178z4lhMTlo8Kjovvntb9XiikL053K8BwSQIdO%2B0o4liQ/PVZmkneHJuoBGZB0vu%2BNHUs/N5wSyImYgAtJWa/FID9Oib8vWFCoDxt6unXq9sNtsAtMEfCIAyAPD4a%2B3Ku3UAE3MbZ6bLVT/sqG7VANrgw3aj1gpvvK9cm98MlOr916120sXd5quy25v00t2AAQn%2BezDTf7shot%2B7BkUMI6HuFwAAAABJRU5ErkJggg%3D%3D" />
+ <img src="https://img.shields.io/badge/-Mastercard:_Cybersecurity_Job_Simulation-0072C6?style=for-the-badge&logo=mastercard&logoColor=white" />
+ <img src="https://img.shields.io/badge/-CCNAv7:_Introduction_to_Networks-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" />
+ <img src="https://img.shields.io/badge/-CCNA:_Switching,_Routing,_Wireless_Essentials-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Tools
@@ -41,17 +42,26 @@ Want to learn more about my cybersecurity journey? <br> <a href="https://www.lin
 
 ### Skills
 <div>
-  <img src="https://img.shields.io/badge/-Cybersecurity-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network_Security-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Risk_%26_Compliance-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NIST_Framework-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Penetration_Testing-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SIEM_Analysis-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-System_Administration-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Routing_%26_Switching-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hardware_Troubleshooting-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Artificial_Intelligence_(AI)-333333?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Quality_Assurance-333333?&style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Cybersecurity-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Risk_Assessment-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-NIST_Framework-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Network_Security-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-SIEM_%26_Log_Analysis-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-System_Administration-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Hardware_Troubleshooting-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Policy_Compliance-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-System_Imaging-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AI--assisted_Anomaly_Detection-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Quality_Assurance-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Vulnerability_Review-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Cross--functional_Communication-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Process_Documentation-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Incident_Response-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Threat_Detection-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Access_Control-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Vulnerability_Management-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Scripting%2FPython-333333?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Documentation%2FReporting-333333?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
